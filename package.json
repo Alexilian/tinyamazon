@@ -26,5 +26,9 @@
 		"svelte": "^3.54.0",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"pouchdb-find": "^8.0.0",
+		"svelte-forms": "^2.3.1"
+	}
 }
